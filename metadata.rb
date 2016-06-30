@@ -13,7 +13,7 @@
 # limitations under the License.
 #
 
-name 'gruyere'
+name 'gruyere2'
 maintainer 'Sliim'
 maintainer_email 'sliim@mailoo.org'
 license 'Apache 2.0'
